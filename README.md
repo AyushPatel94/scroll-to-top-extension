@@ -10,6 +10,15 @@ A lightweight Chrome extension that scrolls any webpage instantly to the top whe
 - Minimal permissions required
 - Easy to install manually (no Chrome Web Store needed)
 
+## 💬 Works with ChatGPT Conversations
+
+This extension also works seamlessly with **ChatGPT**:
+
+- 🔝 Instantly scrolls to the top of any ChatGPT conversation
+- 🧠 Works with both the **main page scroll** and **the inner chat message container**
+- 🖱️ Just click the toolbar icon — no setup, no popup
+
+
 ## 📁 Files Included
 
 - `manifest.json` – Chrome extension config (Manifest V3)
