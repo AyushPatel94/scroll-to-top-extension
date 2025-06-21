@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Scroll to Top",
-  "version": "1.0",
+  "version": "1.1",
   "description": "Scrolls any page to top on one click.",
   "permissions": ["scripting", "activeTab"],
   "icons":{
