@@ -29,7 +29,7 @@ This extension also works seamlessly with **ChatGPT**:
 
 To install this extension manually without using the Chrome Web Store:
 
-1. Download this repo as a [ZIP file](https://github.com/AyushPatel94/scroll-to-top-extension/archive/refs/heads/master.zip)
+1. Download this repo as a [ZIP file](https://github.com/AyushPatel94/chatGPT-conversations-scroll-to-top-extension/archive/refs/heads/master.zip)
 2. Extract the ZIP to a folder
 3. Open Google Chrome and navigate to `chrome://extensions`
 4. Enable **Developer Mode** (top-right switch)
@@ -37,6 +37,14 @@ To install this extension manually without using the Chrome Web Store:
 6. Select the extracted folder
 
 ✅ The extension will now appear in Chrome and scroll any page to the top when the icon is clicked!
+
+# Changelog
+
+## 1.1
+- Added error handling for chrome:// URLs
+- Cleaned up logs for production
+- Improved fallback scrolling logic
+
 
 ## 🧰 Built With
 
