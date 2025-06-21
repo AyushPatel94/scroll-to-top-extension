@@ -1,0 +1,17 @@
+{
+  "manifest_version": 3,
+  "name": "Scroll to Top",
+  "version": "1.0",
+  "description": "Scrolls any page to top on one click.",
+  "permissions": ["scripting", "activeTab"],
+  "icons":{
+    "128":"icon.png"
+  },
+  "action": {
+    "default_icon": "icon.png",
+    "default_title": "Scroll to Top"
+  },
+  "background": {
+    "service_worker": "background.js"
+  }
+}
