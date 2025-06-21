@@ -29,7 +29,7 @@ This extension also works seamlessly with **ChatGPT**:
 
 To install this extension manually without using the Chrome Web Store:
 
-1. Download this repo as a [ZIP file](https://github.com/AyushPatel94/scroll-to-top-extension/archive/refs/heads/master.zip)
+1. Download this repo as a [ZIP file](https://github.com/AyushPatel94/chatGPT-conversations-scroll-to-top-extension/archive/refs/heads/master.zip)
 2. Extract the ZIP to a folder
 3. Open Google Chrome and navigate to `chrome://extensions`
 4. Enable **Developer Mode** (top-right switch)
